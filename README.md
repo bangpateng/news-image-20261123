@@ -5,8 +5,8 @@
 [![reward](https://make.fun/badge/news-image-20261123/bangpateng/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123)
 
 One image summing up the world news of **Monday 23 November 2026**, drawn as a
-newspaper front page. The entry program (`main.ts`) copies the image in this
-repository to `/output/entry.png`.
+newspaper front page. The entry program (`main.ts`) draws the front page
+itself (Node 22 stdlib only, no network) and writes it to `/output/entry.png`.
 
 ## The day's news in the image
 
